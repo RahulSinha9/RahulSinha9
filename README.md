@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working to enhance **My Skills**
 
-- 🌱 I’m currently learning **FullStack Web Development**
+- 🌱 I’m currently learning **FullStack Web Development** and **ML and DS
 
 - 👨‍💻 All of my projects are available at [https://github.com/RahulSinha9](https://github.com/RahulSinha9)
 
