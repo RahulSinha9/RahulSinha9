@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working to enhance **My Skills**
 
-- 🌱 I’m currently learning **FullStack Web Development** and ML and DS
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RahulSinha9](https://github.com/RahulSinha9)
 
-- 💬 Ask me about **Python, Aws, DSA, Linux**
+- 💬 Ask me about **Python, Aws, ML,  DevOps**
 
 - 📫 How to reach me **krahul088176@gmail.com**
 
