@@ -1,4 +1,4 @@
-![Logo](https://github.com/RahulSinha9/RahulSinha9/blob/main/header_banner-1.jpg.png)
+![Logo](https://github.com/RahulSinha9/RahulSinha9/blob/main/rahul.jpg)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
