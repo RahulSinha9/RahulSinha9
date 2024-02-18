@@ -1,6 +1,6 @@
 ![Logo](https://github.com/RahulSinha9/RahulSinha9/blob/main/rahul.jpg)
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate Developer from India.</h3>
+<h1 align="center">Hi 👋🏻, I'm Rahul Kumar</h1>
+<h3 align="center">A Passionate DevOps Engineer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsinha9&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsinha9" /> </p>
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RahulSinha9](https://github.com/RahulSinha9)
 
-- 💬 Ask me about **Python, Aws, ML,  DevOps**
+- 💬 Ask me about **DevOps, Cloud, Python, Machine Learning, Data Science**
 
 - 📫 How to reach me **krahul088176@gmail.com**
 
