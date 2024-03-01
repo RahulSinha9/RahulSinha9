@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_r4hul__" target="blank"><img src="https://img.shields.io/twitter/follow/_r4hul__?logo=twitter&style=for-the-badge" alt="_r4hul__" /></a> </p>
 
-- 🔭 I’m currently working to enhance **My Skills**
+- 🔭 I’m currently working on enhance **My Skills**
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -25,6 +25,7 @@
 <a href="https://instagram.com/_r.a.h.u.l._18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_r.a.h.u.l._18/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/krahul088176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krahul088176" height="30" width="40" /></a>
 <a href="https://discord.gg/dKgbzRfUyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dKgbzRfUyt" height="30" width="40" /></a>
+<a href="https://hashnode.com/@rahulsinha99" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="dKgbzRfUyt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
