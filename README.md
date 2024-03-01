@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/_r4hul__" target="blank"><img src="https://img.shields.io/twitter/follow/_r4hul__?logo=twitter&style=for-the-badge" alt="_r4hul__" /></a> </p>
 
-- 🔭 I’m currently working on enhance **My Skills**
+- 🔭 I’m currently working on enhance **My Skills.**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RahulSinha9](https://github.com/RahulSinha9)
 
-- 💬 Ask me about **DevOps, Cloud, Python, Machine Learning, Data Science**
+- 💬 Ask me about **DevOps, Cloud, Python, Machine Learning, Data Science.**
 
 - 📫 How to reach me **krahul088176@gmail.com**
 
