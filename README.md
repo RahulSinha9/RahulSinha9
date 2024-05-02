@@ -19,13 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_r4hul__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_r4hul__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul-kumar-610b67214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-610b67214" height="30" width="40" /></a>
-<a href="https://fb.com/rahulkumar.sinha.1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulkumar.sinha.1612" height="30" width="40" /></a>
-<a href="https://instagram.com/_r.a.h.u.l._18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_r.a.h.u.l._18/" height="30" width="40" /></a>
+<a href="https://twitter.com/_r4hul__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_r4hul__" height="80" width="80" /></a>
+<a href="https://linkedin.com/in/rahul-kumar-610b67214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-610b67214" height="80" width="80" /></a>
+<a href="https://fb.com/rahulkumar.sinha.1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulkumar.sinha.1612" height="80" width="80" /></a>
+<a href="https://instagram.com/_r.a.h.u.l._18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_r.a.h.u.l._18/" height="80" width="80" /></a>
 <a href="https://www.codechef.com/users/krahul088176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krahul088176" height="30" width="40" /></a>
-<a href="https://discord.gg/dKgbzRfUyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dKgbzRfUyt" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rahulsinha99" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="dKgbzRfUyt" height="30" width="40" /></a>
+<a href="https://discord.gg/dKgbzRfUyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dKgbzRfUyt" height="80" width="80" /></a>
+<a href="https://hashnode.com/@rahulsinha99" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="dKgbzRfUyt" height="80" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
