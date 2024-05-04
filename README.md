@@ -1,7 +1,7 @@
 ![Logo](https://github.com/RahulSinha9/RahulSinha9/blob/main/rahul.jpg)
 <h1 align="center">Hi 👋🏻, I'm Rahul </h1>
 <h3 align="center">A Passionate DevOps Engineer from India.</h3>
-<img align="right" alt="coding" width="600" src="https://fusion.works/wp-content/uploads/2023/01/ezgif-4-3288abc425.gif">
+<img align="right" alt="coding" width="400" src="https://fusion.works/wp-content/uploads/2023/01/ezgif-4-3288abc425.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsinha9&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsinha9" /> </p>
 
