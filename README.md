@@ -19,13 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_r4hul__" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="_r4hul__" height="80" width="70" /></a>
-<a href="https://linkedin.com/in/rahul-kumar-610b67214" target="blank"><img align="center" src="https://s-media-cache-ak0.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.jpg" alt="rahul-kumar-610b67214" height="65" width="70" /></a>
+<a href="https://twitter.com/_r4hul__" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="_r4hul__" height="80" width="80" /></a>
+<a href="https://linkedin.com/in/rahul-kumar-610b67214" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="rahul-kumar-610b67214" height="80" width="80" /></a>
 <a href="https://fb.com/rahulkumar.sinha.1612" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" alt="rahulkumar.sinha.1612" height="80" width="80" /></a>
 <a href="https://instagram.com/_r.a.h.u.l._18/" target="blank"><img align="center" src="https://media.tenor.com/QsaxvK8W_AoAAAAi/araslot-instagram.gif" alt="_r.a.h.u.l._18/" height="80" width="80" /></a>
-<a href="https://www.codechef.com/users/krahul088176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krahul088176" height="80" width="70" /></a>
+<a href="https://www.codechef.com/users/krahul088176" target="blank"><img align="center" src="codechef.gif" alt="krahul088176" height="80" width="70" /></a>
 <a href="https://discord.gg/dKgbzRfUyt" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="dKgbzRfUyt" height="80" width="80" /></a>
-<a href="https://hashnode.com/@rahulsinha99" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="dKgbzRfUyt" height="80" width="70" /></a>
+<a href="https://hashnode.com/@rahulsinha99" target="blank"><img align="center" src="hashnoad.gif" alt="dKgbzRfUyt" height="80" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
