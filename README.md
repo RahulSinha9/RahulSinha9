@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on enhance **My Skills.**
 
-- 🌱 I’m currently working as a **DevOps Engineer.**
+- 👨‍💻 I’m currently working as a **DevOps Engineer.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RahulSinha9](https://github.com/RahulSinha9)
+- 💡 All of my projects are available at [https://github.com/RahulSinha9](https://github.com/RahulSinha9)
 
 - 💬 Ask me about **DevOps, Cloud, Python, Machine Learning, Data Science.**
 
