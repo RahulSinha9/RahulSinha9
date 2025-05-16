@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on enhance **My Skills.**
 
-- 🌱 I’m currently learning **DevOps.**
+- 🌱 I’m currently working as a **DevOps Engineer.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RahulSinha9](https://github.com/RahulSinha9)
 
