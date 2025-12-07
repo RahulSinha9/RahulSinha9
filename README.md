@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+Rahul!;" />
 </h1>
-<h3 align="center">A Passionate DevOps Engineer from India.</h3>
+<h3 align="center">A Passionate DevOps Engineer.</h3>
 <img align="right" alt="coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsinha9&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsinha9" /> </p>
