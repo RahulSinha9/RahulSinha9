@@ -65,15 +65,15 @@ I enjoy working across **Cloud Infrastructure, CI/CD, Kubernetes, Infrastructure
 <p>
   <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" alt="Jira" />
   <img src="https://cdn.simpleicons.org/confluence/172B4D" width="48" height="48" alt="Confluence" />
-  <img src="https://cdn.simpleicons.org/slack/4A154B" width="48" height="48" alt="Slack" />
+  <img src="https://skillicons.dev/icons?i=slack" width="48" height="48" alt="Slack" />
 </p>
 
 ### 🌐 Networking, CDN & Edge
 
 <p>
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="48" height="48" alt="Cloudflare" />
-  <img src="https://cdn.simpleicons.org/amazons3/569A31" width="48" height="48" alt="Amazon S3" />
-  <img src="https://cdn.simpleicons.org/amazonroute53/232F3E" width="48" height="48" alt="Amazon Route 53" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="48" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/Amazon%20Route%2053-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="48" alt="Amazon Route 53" />
   <img src="https://cdn.simpleicons.org/nginx/009639" width="48" height="48" alt="Nginx" />
 </p>
 
@@ -85,7 +85,7 @@ I enjoy working across **Cloud Infrastructure, CI/CD, Kubernetes, Infrastructure
 
 <p>
   <img src="https://cdn.simpleicons.org/trivy/1904DA" width="48" height="48" alt="Trivy" />
-  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="48" height="48" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="48" alt="SonarQube" />
 </p>
 
 ### 💻 Languages & Automation
