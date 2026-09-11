@@ -51,47 +51,48 @@ I enjoy working across **Cloud Infrastructure, CI/CD, Kubernetes, Infrastructure
 ### ☁️ Cloud & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,linux" alt="Cloud and infrastructure tools" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,linux" alt="AWS Terraform Ansible Linux" />
 </p>
 
 ### 🚀 DevOps, CI/CD & GitOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,github,bitbucket,argo,helm,nginx" alt="DevOps CI/CD and GitOps tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,github,bitbucket,argo,helm" alt="Docker Kubernetes Jenkins GitHub Actions Git GitHub Bitbucket Argo CD Helm" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" width="48" height="48" alt="Nginx" />
 </p>
 
 ### 📋 Project Management & Collaboration
 
 <p>
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" alt="Jira" />
-  <img src="https://cdn.simpleicons.org/confluence/172B4D" width="48" height="48" alt="Confluence" />
-  <img src="https://cdn.simpleicons.org/slack/4A154B" width="48" height="48" alt="Slack" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="28" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" height="28" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="28" alt="Slack" />
 </p>
 
 ### 🌐 Networking, CDN & Edge
 
 <p>
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="48" height="48" alt="Cloudflare" />
-  <img src="https://cdn.simpleicons.org/amazons3/569A31" width="48" height="48" alt="Amazon S3" />
-  <img src="https://cdn.simpleicons.org/amazonroute53/232F3E" width="48" height="48" alt="Amazon Route 53" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" width="48" height="48" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="28" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="28" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/Amazon%20Route%2053-232F3E?style=for-the-badge&logo=amazonroute53&logoColor=white" height="28" alt="Amazon Route 53" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="28" alt="Nginx" />
 </p>
 
 ### 🔐 DevSecOps & Observability
 
 <p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability tools" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus Grafana" />
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/trivy/1904DA" width="48" height="48" alt="Trivy" />
-  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="48" height="48" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" height="28" alt="Trivy" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="28" alt="SonarQube" />
 </p>
 
 ### 💻 Languages & Automation
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs" alt="Programming and automation languages" />
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs" alt="Python Bash JavaScript Node.js" />
 </p>
 
 ## 🤖 AI + DevOps Focus
