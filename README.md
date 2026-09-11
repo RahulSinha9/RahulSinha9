@@ -57,7 +57,29 @@ I enjoy working across **Cloud Infrastructure, CI/CD, Kubernetes, Infrastructure
 ### 🚀 DevOps & CI/CD
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,github" alt="DevOps and CI/CD tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,github,bitbucket" alt="DevOps and CI/CD tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
+### 📋 Project Management & Collaboration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+</p>
+
+### 🌐 Networking & Edge
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/AWS%20Route%2053-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Route 53" />
+  <img src="https://img.shields.io/badge/AWS%20Load%20Balancer-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Load Balancer" />
 </p>
 
 ### 🔐 DevSecOps & Observability
