@@ -58,35 +58,33 @@ I enjoy working across **Cloud Infrastructure, CI/CD, Kubernetes, Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,github,bitbucket&perline=7" alt="DevOps and CI/CD tools" />
-</p>
-<p>
-  <img src="https://cdn.simpleicons.org/argocd?viewbox=auto" width="44" height="44" alt="Argo CD" />
-  <img src="https://cdn.simpleicons.org/helm?viewbox=auto" width="44" height="44" alt="Helm" />
+  <img src="https://cdn.simpleicons.org/argo" width="44" height="44" alt="Argo CD" />
+  <img src="https://cdn.simpleicons.org/helm" width="44" height="44" alt="Helm" />
 </p>
 
 ### 📋 Project Management & Collaboration
 
 <p>
-  <img src="https://cdn.simpleicons.org/jira?viewbox=auto" width="44" height="44" alt="Jira" />
-  <img src="https://cdn.simpleicons.org/confluence?viewbox=auto" width="44" height="44" alt="Confluence" />
-  <img src="https://cdn.simpleicons.org/slack?viewbox=auto" width="44" height="44" alt="Slack" />
+  <img src="https://cdn.simpleicons.org/jira" width="44" height="44" alt="Jira" />
+  <img src="https://cdn.simpleicons.org/confluence" width="44" height="44" alt="Confluence" />
+  <img src="https://cdn.simpleicons.org/slack" width="44" height="44" alt="Slack" />
 </p>
 
 ### 🌐 Networking, CDN & Edge
 
 <p>
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020?viewbox=auto" width="44" height="44" alt="Cloudflare" />
-  <img src="https://cdn.simpleicons.org/amazons3?viewbox=auto" width="44" height="44" alt="Amazon S3" />
-  <img src="https://cdn.simpleicons.org/amazonroute53?viewbox=auto" width="44" height="44" alt="Amazon Route 53" />
-  <img src="https://cdn.simpleicons.org/nginx?viewbox=auto" width="44" height="44" alt="Nginx" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="44" height="44" alt="Cloudflare" />
+  <img src="https://cdn.simpleicons.org/amazons3" width="44" height="44" alt="Amazon S3" />
+  <img src="https://cdn.simpleicons.org/amazonroute53" width="44" height="44" alt="Amazon Route 53" />
+  <img src="https://cdn.simpleicons.org/nginx" width="44" height="44" alt="Nginx" />
 </p>
 
 ### 🔐 DevSecOps & Observability
 
 <p>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=2" alt="Observability tools" />
-  <img src="https://cdn.simpleicons.org/trivy?viewbox=auto" width="44" height="44" alt="Trivy" />
-  <img src="https://cdn.simpleicons.org/sonarqubeserver?viewbox=auto" width="44" height="44" alt="SonarQube" />
+  <img src="https://cdn.simpleicons.org/trivy" width="44" height="44" alt="Trivy" />
+  <img src="https://cdn.simpleicons.org/sonarqube" width="44" height="44" alt="SonarQube" />
 </p>
 
 ### 💻 Languages & Automation
