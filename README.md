@@ -79,19 +79,20 @@ I enjoy working across **Cloud Infrastructure, CI/CD, Kubernetes, Infrastructure
 
 ## 🤖 AI + DevOps Focus
 
-```text
-AI-powered PR Review
-        ↓
-AI Log Analysis
-        ↓
-Kubernetes Incident Triage
-        ↓
-Automated Root Cause Analysis
-        ↓
-Infrastructure Remediation
-        ↓
-Self-Healing DevOps
-```
+> **Building AI systems that don't just observe infrastructure — they help engineers understand, decide, and act.**
+
+| 🧠 AI Capability | ⚙️ DevOps Problem | 🚀 Outcome |
+|---|---|---|
+| 🔍 **PR Intelligence** | Review infrastructure & deployment changes | Safer, faster code reviews |
+| 📜 **Log Intelligence** | Find patterns inside noisy logs | Faster troubleshooting |
+| ☸️ **Incident Intelligence** | Investigate Kubernetes failures | Quicker incident triage |
+| 🧩 **Root Cause Analysis** | Connect symptoms to likely causes | Better debugging decisions |
+| 🔧 **Automated Remediation** | Execute repeatable recovery actions | Less manual intervention |
+| ♻️ **Self-Healing Systems** | Detect → decide → recover | More resilient infrastructure |
+
+**My AI + DevOps direction:**
+
+`Observe` → `Understand` → `Decide` → `Act` → `Verify` → `Learn`
 
 ## 📚 DevOps Learning Repositories
 
