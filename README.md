@@ -123,10 +123,6 @@ I enjoy working across **Cloud Infrastructure, CI/CD, Kubernetes, Infrastructure
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulSinha9&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="170" alt="GitHub activity statistics" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulSinha9&theme=tokyonight" height="165" alt="GitHub statistics" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulSinha9&theme=tokyonight" height="165" alt="Top repository languages" />
 </div>
