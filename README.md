@@ -116,7 +116,11 @@ Self-Healing DevOps
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulSinha9/RahulSinha9/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulSinha9/RahulSinha9/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/RahulSinha9/RahulSinha9/output/github-snake.svg" width="100%">
+  </picture>
 </div>
 
 ## 🎯 2026 Goals
