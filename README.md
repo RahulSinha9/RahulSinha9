@@ -105,8 +105,8 @@ Self-Healing DevOps
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulSinha9&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSinha9&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulSinha9&theme=tokyonight" height="165" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulSinha9&theme=tokyonight" height="165" alt="Top repository languages" />
 </div>
 
 <div align="center">
