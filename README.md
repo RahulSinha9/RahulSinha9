@@ -50,42 +50,50 @@ I enjoy working across **Cloud Infrastructure, CI/CD, Kubernetes, Infrastructure
 
 ### ☁️ Cloud & Infrastructure
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,linux" height="48" alt="AWS Terraform Ansible Linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,linux" alt="Cloud and infrastructure tools" />
 </p>
 
 ### 🚀 DevOps, CI/CD & GitOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,github,bitbucket,argo,helm,nginx" height="48" alt="Docker Kubernetes Jenkins GitHub Actions Git GitHub Bitbucket Argo Helm Nginx" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,github,bitbucket" alt="DevOps and CI/CD tools" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=argo,helm" alt="GitOps tools" />
 </p>
 
 ### 📋 Project Management & Collaboration
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jira,confluence,slack" height="48" alt="Jira Confluence Slack" />
+<p>
+  <img src="https://skillicons.dev/icons?i=jira,confluence,slack" alt="Project management and collaboration tools" />
 </p>
 
 ### 🌐 Networking, CDN & Edge
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloudflare" />
-  <img src="https://cdn.simpleicons.org/amazons3/569A31" width="48" height="48" alt="Amazon S3" />
-  <img src="https://cdn.simpleicons.org/amazonroute53/232F3E" width="48" height="48" alt="Amazon Route 53" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="48" alt="Nginx" />
+<p>
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="48" height="48" alt="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/amazons3.svg" width="48" height="48" alt="Amazon S3" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/amazonroute53.svg" width="48" height="48" alt="Amazon Route 53" />
+  <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
 </p>
 
 ### 🔐 DevSecOps & Observability
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="48" alt="Prometheus Grafana" />
-  <img src="https://skillicons.dev/icons?i=trivy,sonarqube" height="48" alt="Trivy SonarQube" />
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability tools" />
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/trivy/1904DA" width="48" height="48" alt="Trivy" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/sonarqube.svg" width="48" height="48" alt="SonarQube" />
 </p>
 
 ### 💻 Languages & Automation
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs" height="48" alt="Python Bash JavaScript Node.js" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs" alt="Programming languages" />
 </p>
 
 ## 🤖 AI + DevOps Focus
