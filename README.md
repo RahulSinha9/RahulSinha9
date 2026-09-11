@@ -58,7 +58,6 @@ I enjoy working across **Cloud Infrastructure, CI/CD, Kubernetes, Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,github,bitbucket,argo,helm" alt="Docker Kubernetes Jenkins GitHub Actions Git GitHub Bitbucket Argo CD Helm" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" width="48" height="48" alt="Nginx" />
 </p>
 
 ### 📋 Project Management & Collaboration
