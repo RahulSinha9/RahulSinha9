@@ -4,144 +4,135 @@
 
 # 👋 Hi, I'm Rahul Kumar
 
-### 🚀 DevOps Engineer • Cloud • Kubernetes • DevSecOps • AI for DevOps
+### 🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | DevSecOps | AI for DevOps
 
-**I build infrastructure, automate delivery, solve production problems, and experiment with AI-powered DevOps.**
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=RahulSinha9&label=Profile%20Views&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/RahulSinha9">
+  <img src="https://komarev.com/ghpvc/?username=RahulSinha9&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</a>
+<a href="https://github.com/RahulSinha9?tab=followers">
   <img src="https://img.shields.io/github/followers/RahulSinha9?label=Followers&style=for-the-badge" alt="GitHub followers" />
-</p>
-
-<p>
-  <a href="https://github.com/RahulSinha9?tab=repositories">🚀 Explore Projects</a> •
-  <a href="https://github.com/RahulSinha9?tab=stars">⭐ My Stars</a> •
-  <a href="https://www.linkedin.com/in/rahul-kumar-610b67214">💼 LinkedIn</a>
-</p>
+</a>
 
 </div>
 
----
+<img align="right" width="360" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif" alt="DevOps animation" />
 
-## 🧑‍💻 What I Build
+## 👨‍💻 About Me
 
-```text
-☁️ Cloud Infrastructure     → AWS • Terraform • Ansible
-🚀 Delivery Automation      → Jenkins • GitHub Actions • Bitbucket
-☸️ Platform Engineering     → Kubernetes • Helm • Argo CD
-🔐 Secure Delivery          → Trivy • SonarQube • DevSecOps
-📊 Observability             → Prometheus • Grafana
-🤖 AI for DevOps             → PR Review • Log Analysis • Incident Triage
-♻️ Reliability Automation   → RCA • Remediation • Self-Healing Systems
-```
+I’m a **DevOps Engineer** focused on building reliable, scalable, secure, and automated systems.
 
-## 🔥 Featured Work
+I enjoy working across **Cloud Infrastructure, CI/CD, Kubernetes, Infrastructure as Code, DevSecOps, Observability, and AI-powered DevOps automation**.
 
-<div align="center">
+- 🔭 Building practical **AI + DevOps + Cloud** projects
+- ☁️ Working with **AWS** and cloud-native infrastructure
+- 🐳 Containerizing applications with **Docker**
+- ☸️ Automating deployments with **Kubernetes**
+- 🏗️ Managing infrastructure with **Terraform & Ansible**
+- 🔄 Building CI/CD pipelines with **Jenkins & GitHub Actions**
+- 🔐 Integrating security into software delivery with **DevSecOps**
+- 🤖 Exploring **AI for incident response, log analysis, PR review, and self-healing infrastructure**
+- 📚 Learning by building, troubleshooting, automating, and sharing
 
-| 🤖 AI & Automation | ☁️ Cloud & Platform |
+<br clear="right"/>
+
+## 🔥 Featured Projects
+
+| Project | What it does |
 |---|---|
-| [**AI PR Reviewer**](https://github.com/RahulSinha9/ai-pr-reviewer-devops) | [**AWS DevOps Zero to Hero**](https://github.com/RahulSinha9/aws-devops-zero-to-hero) |
-| [**AI Log Analyzer**](https://github.com/RahulSinha9/ai-log-analyzer) | [**Kubernetes Zero to Hero**](https://github.com/RahulSinha9/Kubernetes-Zero-to-Hero) |
-| [**AI K8s Incident Triage**](https://github.com/RahulSinha9/ai-k8s-incident-triage) | [**Terraform**](https://github.com/RahulSinha9/Terraform) |
-| [**Self-Healing Infra Agent**](https://github.com/RahulSinha9/devops-self-healing-infra-agent) | [**DevOpsLabX**](https://github.com/RahulSinha9/DevOpsLabX) |
-
-</div>
+| 🤖 [AI PR Reviewer](https://github.com/RahulSinha9/ai-pr-reviewer-devops) | AI-assisted pull request review for DevOps workflows |
+| 🩺 [Self-Healing Infra Agent](https://github.com/RahulSinha9/devops-self-healing-infra-agent) | Experiments with automated infrastructure detection and remediation |
+| 📊 [AI Log Analyzer](https://github.com/RahulSinha9/ai-log-analyzer) | AI-assisted application and infrastructure log analysis |
+| ☸️ [AI K8s Incident Triage](https://github.com/RahulSinha9/ai-k8s-incident-triage) | AI-assisted Kubernetes incident investigation |
+| ☁️ [AWS DevOps Zero to Hero](https://github.com/RahulSinha9/aws-devops-zero-to-hero) | Hands-on AWS + DevOps learning and implementation |
+| 🚀 [DevOpsLabX](https://github.com/RahulSinha9/DevOpsLabX) | Practical DevOps, automation, infrastructure, and deployment work |
 
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,linux" alt="AWS Terraform Ansible Linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,linux" alt="Cloud and infrastructure tools" />
 </p>
 
-### 🚀 DevOps • CI/CD • GitOps
+### 🚀 DevOps, CI/CD & GitOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,github,bitbucket,argo,helm,nginx" alt="Docker Kubernetes Jenkins GitHub Actions Git GitHub Bitbucket Argo CD Helm Nginx" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,git,github,bitbucket,argo,helm,nginx" alt="DevOps and CI/CD tools" />
 </p>
 
-### 📋 Collaboration & Delivery
+### 📋 Project Management & Collaboration
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jira,confluence,slack" alt="Jira Confluence Slack" />
+<p>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" alt="Jira" />
+  <img src="https://cdn.simpleicons.org/confluence/172B4D" width="48" height="48" alt="Confluence" />
+  <img src="https://cdn.simpleicons.org/slack/4A154B" width="48" height="48" alt="Slack" />
 </p>
 
-### 🌐 Networking & Edge
+### 🌐 Networking, CDN & Edge
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare,aws" alt="Cloudflare AWS" />
+<p>
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="48" height="48" alt="Cloudflare" />
+  <img src="https://cdn.simpleicons.org/amazons3/569A31" width="48" height="48" alt="Amazon S3" />
+  <img src="https://cdn.simpleicons.org/amazonroute53/232F3E" width="48" height="48" alt="Amazon Route 53" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" width="48" height="48" alt="Nginx" />
 </p>
 
-`Route 53` • `S3` • `Load Balancer` • `Nginx` • `Cloudflare`
+### 🔐 DevSecOps & Observability
 
-### 🔐 Security & Observability
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus Grafana" />
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability tools" />
 </p>
 
-`Trivy` • `SonarQube` • `DevSecOps` • `Security Scanning` • `Monitoring`
+<p>
+  <img src="https://cdn.simpleicons.org/trivy/1904DA" width="48" height="48" alt="Trivy" />
+  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="48" height="48" alt="SonarQube" />
+</p>
 
 ### 💻 Languages & Automation
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs" alt="Python Bash JavaScript Node.js" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs" alt="Programming languages" />
 </p>
 
----
+## 🤖 AI + DevOps Focus
 
-## 🤖 AI × DevOps
+> **Building AI systems that don't just observe infrastructure — they help engineers understand, decide, and act.**
 
-> **My goal: turn operational data into engineering decisions — and engineering decisions into safe automation.**
+| 🧠 AI Capability | ⚙️ DevOps Problem | 🚀 Outcome |
+|---|---|---|
+| 🔍 **PR Intelligence** | Review infrastructure & deployment changes | Safer, faster code reviews |
+| 📜 **Log Intelligence** | Find patterns inside noisy logs | Faster troubleshooting |
+| ☸️ **Incident Intelligence** | Investigate Kubernetes failures | Quicker incident triage |
+| 🧩 **Root Cause Analysis** | Connect symptoms to likely causes | Better debugging decisions |
+| 🔧 **Automated Remediation** | Execute repeatable recovery actions | Less manual intervention |
+| ♻️ **Self-Healing Systems** | Detect → decide → recover | More resilient infrastructure |
 
-```text
-┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-│   OBSERVE    │ ──▶ │  UNDERSTAND  │ ──▶ │    DECIDE    │
-│ Logs • PRs   │     │ AI Analysis  │     │ RCA • Risk   │
-│ Metrics      │     │ Incidents    │     │ Next Action  │
-└──────────────┘     └──────────────┘     └──────┬───────┘
-                                                  │
-                                                  ▼
-┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-│    LEARN     │ ◀── │    VERIFY    │ ◀── │     ACT      │
-│ Improve      │     │ Health Check │     │ Remediate    │
-│ Automation   │     │ Validate Fix │     │ Automate     │
-└──────────────┘     └──────────────┘     └──────────────┘
-```
+**My AI + DevOps direction:**
 
-### Current AI + DevOps Projects
+`Observe` → `Understand` → `Decide` → `Act` → `Verify` → `Learn`
 
-- 🔍 **PR Intelligence** — AI-assisted review of infrastructure and deployment changes
-- 📜 **Log Intelligence** — identify patterns and useful signals from noisy logs
-- ☸️ **Incident Intelligence** — accelerate Kubernetes incident investigation
-- 🧩 **Root Cause Analysis** — connect symptoms, events, and likely causes
-- 🔧 **Automated Remediation** — execute controlled recovery actions
-- ♻️ **Self-Healing Infrastructure** — detect → decide → recover → verify
+## 📚 DevOps Learning Repositories
 
----
-
-## 📚 DevOps Learning Hub
-
-| Area | Repository |
-|---|---|
-| ☸️ Kubernetes | [Kubernetes Zero to Hero](https://github.com/RahulSinha9/Kubernetes-Zero-to-Hero) |
-| 🔄 CI/CD | [Jenkins Zero to Hero](https://github.com/RahulSinha9/Jenkins-Zero-To-Hero) |
-| ⚙️ GitHub Actions | [GitHub Actions Zero to Hero](https://github.com/RahulSinha9/GitHub-Actions-Zero-to-Hero) |
-| 🏗️ Infrastructure as Code | [Terraform](https://github.com/RahulSinha9/Terraform) |
-| 🔧 Configuration Management | [Ansible](https://github.com/RahulSinha9/Ansible) |
-| 🛡️ DevSecOps | [DevSecOps Tools Installation](https://github.com/RahulSinha9/DevSecOps-Tools-Installation) |
+- 📦 [Jenkins Zero to Hero](https://github.com/RahulSinha9/Jenkins-Zero-To-Hero)
+- ⚙️ [GitHub Actions Zero to Hero](https://github.com/RahulSinha9/GitHub-Actions-Zero-to-Hero)
+- ☸️ [Kubernetes Zero to Hero](https://github.com/RahulSinha9/Kubernetes-Zero-to-Hero)
+- 🏗️ [Terraform](https://github.com/RahulSinha9/Terraform)
+- 🔧 [Ansible](https://github.com/RahulSinha9/Ansible)
+- 🛡️ [DevSecOps Tools Installation](https://github.com/RahulSinha9/DevSecOps-Tools-Installation)
 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulSinha9&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&font=Inter" height="170" alt="GitHub activity statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSinha9&layout=compact&hide_border=true&theme=tokyonight&font=Inter" height="170" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulSinha9&theme=tokyonight" width="100%" alt="GitHub profile activity" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RahulSinha9&theme=tokyonight&hide_border=true&font=Inter" alt="GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulSinha9&theme=tokyonight" height="165" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulSinha9&theme=tokyonight" height="165" alt="Top repository languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RahulSinha9&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 ## 🐍 Contribution Graph
@@ -154,34 +145,43 @@
   </picture>
 </div>
 
----
+## 🎯 2026 Goals
 
-## 🎯 2026 Mission
+- ☁️ Build production-style AWS architectures
+- ☸️ Go deeper into Kubernetes and platform engineering
+- 🏗️ Master Infrastructure as Code and GitOps workflows
+- 🔐 Strengthen DevSecOps and cloud security practices
+- 🤖 Build useful AI agents for real DevOps problems
+- 🌍 Contribute more consistently to open source
 
-```text
-AWS Architecture      █████████████████░░░  Building
-Kubernetes             ████████████████░░░░  Deepening
-Platform Engineering   ██████████████░░░░░░  Exploring
-DevSecOps               ███████████████░░░░░  Strengthening
-AI for DevOps           █████████████████░░░  Building
-Open Source             ████████████░░░░░░░░  Growing
-```
+## 🤝 Open Source & Collaboration
 
-## 🤝 Let's Build
+I’m interested in collaborating on projects around:
 
-I’m open to collaborating on **DevOps, Cloud, Kubernetes, Platform Engineering, DevSecOps, Observability, and AI-powered infrastructure automation**.
+**AWS · Kubernetes · Terraform · CI/CD · DevSecOps · Observability · Platform Engineering · AI for DevOps**
 
-<p align="center">
-  <a href="https://github.com/RahulSinha9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/rahul-kumar-610b67214"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:krahul088176@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://hashnode.com/@rahulsinha99"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+Have an interesting idea, issue, or open-source project? Feel free to connect or open a discussion.
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/RahulSinha9"><img src="https://img.shields.io/badge/GitHub-RahulSinha9-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/rahul-kumar-610b67214"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/_r4hul__"><img src="https://img.shields.io/badge/X-@_r4hul__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:krahul088176@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://hashnode.com/@rahulsinha99"><img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
 </p>
+
+## ⭐ Follow the Journey
+
+I share **hands-on DevOps projects, cloud automation, Kubernetes experiments, DevSecOps practices, and AI-powered DevOps ideas**.
+
+**⭐ Star the repositories that help you · 👀 Explore the projects · ➕ Follow for more**
+
+> **Learn → Build → Automate → Secure → Share → Repeat 🚀**
 
 <div align="center">
 
-### ⭐ Build • Automate • Secure • Observe • Improve
-
-**Thanks for visiting — feel free to explore the repositories and connect! 🚀**
+### Thanks for visiting! 👋
 
 </div>
