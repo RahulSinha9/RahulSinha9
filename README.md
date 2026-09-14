@@ -46,6 +46,20 @@ I enjoy working across **Cloud Infrastructure, CI/CD, Kubernetes, Infrastructure
 | ☁️ [AWS DevOps Zero to Hero](https://github.com/RahulSinha9/aws-devops-zero-to-hero) | Hands-on AWS + DevOps learning and implementation |
 | 🚀 [DevOpsLabX](https://github.com/RahulSinha9/DevOpsLabX) | Practical DevOps, automation, infrastructure, and deployment work |
 
+## 🌍 Open Source Contributions
+
+### Prometheus Community — Helm Charts
+
+**[prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)**
+
+- 🔧 Fixed inconsistent `crds.upgradeJob.labels` propagation in `kube-prometheus-stack`
+- 🎯 Ensured configured labels are consistently applied across CRD upgrade resources
+- 🤝 Collaborated with project maintainers through code review and iteration
+- ✅ Passed Chart Testing, Super Linter, generated-file checks, and integration tests
+- 🚀 **Pull Request #7271 — Merged**
+
+[View PR #7271 →](https://github.com/prometheus-community/helm-charts/pull/7271)
+
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
