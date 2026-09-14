@@ -52,13 +52,18 @@ I enjoy working across **Cloud Infrastructure, CI/CD, Kubernetes, Infrastructure
 
 **[prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)**
 
-- 🔧 Fixed inconsistent `crds.upgradeJob.labels` propagation in `kube-prometheus-stack`
-- 🎯 Ensured configured labels are consistently applied across CRD upgrade resources
-- 🤝 Collaborated with project maintainers through code review and iteration
-- ✅ Passed Chart Testing, Super Linter, generated-file checks, and integration tests
-- 🚀 **Pull Request #7271 — Merged**
+Contributed an upstream fix to the Kubernetes monitoring ecosystem by improving label propagation for `kube-prometheus-stack` CRD upgrade resources.
 
-[View PR #7271 →](https://github.com/prometheus-community/helm-charts/pull/7271)
+- 🔧 Fixed inconsistent `crds.upgradeJob.labels` propagation
+- 🎯 Ensured configured labels are consistently applied across CRD upgrade resources
+- 🤝 Collaborated directly with upstream maintainers through review and iteration
+- 👨‍💻 **Author of the merged change**
+- 🤝 Final squash commit includes **co-authorship with Jan-Otto Kröpke**
+- ✅ Passed Chart Testing, Super Linter, generated-file checks, and integration tests
+- 🚀 **PR #7271 — Merged into `prometheus-community/helm-charts:main`**
+- 🔗 **Merged commit:** [`59947e7`](https://github.com/prometheus-community/helm-charts/commit/59947e7cf955a9288a260c3084143f5cf59df5fe)
+
+**[View PR #7271 →](https://github.com/prometheus-community/helm-charts/pull/7271)**
 
 ## 🛠️ Tech Stack
 
