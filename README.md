@@ -65,6 +65,24 @@ Contributed an upstream fix to the Kubernetes monitoring ecosystem by improving 
 
 **[View PR #7271 →](https://github.com/prometheus-community/helm-charts/pull/7271)**
 
+### KubeIntellect — TLS Certificate Expiry Playbook
+
+**[MSKazemi/kubeintellect](https://github.com/MSKazemi/kubeintellect)**
+
+Contributed a TLS certificate troubleshooting playbook with concrete **SNI/SAN inspection** for Kubernetes incidents. The maintainer merged the relevant work into the project through **PR #226**, shipping commit `275e41d9`.
+
+- 🔐 Added SNI/SAN inspection using `openssl s_client -showcerts`
+- 📜 Reads certificate validity and SAN coverage from `tls.crt` without touching `tls.key`
+- 🎯 Covers certificates that are unexpired but don't cover the requested hostname
+- 🧪 Tested against the project's real 27-playbook registry and multiple incident snapshots
+- 🔒 Avoided requiring additional cert-manager RBAC permissions
+- 🤝 Incorporated maintainer review and testing into the final implementation
+- 🏆 **Merged upstream and credited in `.all-contributorsrc`, README, and CHANGELOG**
+- 🚀 **PR #211 — Merged via #226**
+- 🔗 **Merged commit:** [`275e41d9`](https://github.com/MSKazemi/kubeintellect/commit/275e41d9)
+
+**[View PR #211 →](https://github.com/MSKazemi/kubeintellect/pull/211)** · **[View PR #226 →](https://github.com/MSKazemi/kubeintellect/pull/226)**
+
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
