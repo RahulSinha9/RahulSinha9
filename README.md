@@ -65,23 +65,6 @@ Contributed an upstream fix to the Kubernetes monitoring ecosystem by improving 
 
 **[View PR #7271 →](https://github.com/prometheus-community/helm-charts/pull/7271)**
 
-### FerretDB — Windows + WSL2 CI
-
-**[FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)**
-
-Added GitHub Actions coverage for **Windows development with WSL2**, helping validate FerretDB's supported Windows + WSL2 development environment in CI.
-
-- 🪟 Added a dedicated **Windows 2025 + WSL2** GitHub Actions workflow
-- 🧪 Runs the project's short unit-test suite inside WSL2
-- ⚙️ Automates Go and Task setup inside the Linux environment
-- 🔍 Verifies the WSL2 environment before running project initialization and tests
-- 🔒 Uses minimal workflow permissions with `contents: read`
-- ♻️ Runs on pull requests and supports manual `workflow_dispatch`
-- 🎯 Targets **FerretDB issue #354 — Add Windows (with WSL2) to GitHub Actions configuration**
-- 🚀 **PR #1 opened on my FerretDB fork**
-
-**[View FerretDB PR #1 →](https://github.com/RahulSinha9/FerretDB/pull/1)** · **[View upstream issue #354 →](https://github.com/FerretDB/FerretDB/issues/354)**
-
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
