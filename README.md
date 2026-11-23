@@ -2,7 +2,7 @@
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif" width="100%" alt="DevOps banner" />
 
-# 👋 Hi, I'm Rahul Kumar
+# 👋 Hi, I'm Rahul
 
 ### 🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | DevSecOps | AI for DevOps
 
